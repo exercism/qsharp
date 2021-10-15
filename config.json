@@ -8,17 +8,17 @@
     "representer": false,
     "analyzer": false
   },
-  "blurb": "",
+  "blurb": "Q# is a quantum programming language, designed to be used with QPUs",
   "version": 3,
   "online_editor": {
     "indent_style": "space",
     "indent_size": 4
   },
   "exercises": {
-    "concept": [],
+    "concept": ["quantum"],
     "practice": []
   },
   "concepts": ["quantum computing"],
-  "key_features": ["quantum", "qubits", "QPU"],
-  "tags": ["quantum"]
+  "key_features": ["quantum"],
+  "tags": ["functional"]
 }
