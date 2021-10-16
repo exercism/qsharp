@@ -15,10 +15,10 @@
     "indent_size": 4
   },
   "exercises": {
-    "concept": ["quantum"],
+    "concept": [quantum],
     "practice": []
   },
   "concepts": ["quantum computing"],
-  "key_features": ["quantum"],
-  "tags": ["functional"]
+  "key_features": ["quantum","quantum computing","quantum programming","qubit","QPU","quantum gates"],
+  "tags": ["artificial intelligence"]
 }
