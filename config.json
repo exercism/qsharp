@@ -15,7 +15,7 @@
     "indent_size": 4
   },
   "exercises": {
-    "concept": [quantum],
+    "concept": ["basics"],
     "practice": []
   },
   "concepts": ["quantum computing"],
