@@ -1,0 +1,12 @@
+function MostCommonWord(words : String[]) : String {
+    mutable best = "";
+    mutable bestCount = 0;
+    for word in words {
+        let count = Count(other -> other == word, words);
+        if count > bestCount {
+            set best = word;
+            set bestCount = count;
+        }
+    }
+    return $"\"{best}\" appears {bestCount} times";
+}
